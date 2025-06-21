@@ -1,0 +1,6 @@
+
+ 4229696 	 physics 	 physics 	 4229780 	 pratik
+ 4229696 	 physics 	 physics 	 4229780 	 pratik
+ 4229696 	 chemistry 	 chemistry 	 4229780 	 samir
+ 4229816 	 computer 	 computer 	 4229900 	 pratika
+ 1 	 physics 	 physics 	 300 	 pratik
