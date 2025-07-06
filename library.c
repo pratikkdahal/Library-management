@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<string.h>
-/* lets declare global structure variable as:*/
+
 struct books
 {
 	int book_id;
@@ -11,7 +11,7 @@ struct books
 	char author_name[50];
 	int price;
 	char reader[30];
-	// you can add other member as per your need here
+	
 }lib[300];
 
 int main()
@@ -28,7 +28,7 @@ int cases()
 {
 	char choice, yr;
 	system("cls");
-	// you can create main manu such as add record display edit delete and exit
+	
 	label:
 	printf("[1] to add Record \n");
 	printf("[2] to Display \n");
